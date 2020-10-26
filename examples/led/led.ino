@@ -1,6 +1,5 @@
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
-
 #include <arduino_homekit_server.h>
 
 #define PL(s) Serial.println(s)

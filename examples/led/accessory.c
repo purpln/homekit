@@ -11,7 +11,6 @@
 #define ACCESSORY_MODEL  ("esp8285")
 
 #define PIN_LED  2
-
 bool led_power = false;
 
 homekit_value_t led_on_get() {

@@ -8,3 +8,4 @@ examples:
 - [outlet](https://github.com/mcsrgx/homekit/tree/master/examples/outlet) - outlet
 - led_strip - (WIP)
 - lock - (WIP)
+
